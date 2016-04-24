@@ -7,4 +7,5 @@ Scenes/PixPro4kDemo.unity is a sample scene.
 If you locate Prefabs/PixPro4kSphere.prefab at your scene, you can locate a reversed sphere and project your connected fisheye camera image on the inside of it. 
 
 ## Note
-I checked this assets work on Windows8.1, but did not check on other platforms. 
+I checked these assets work on Windows (8.1 x64), but could not work on other platforms. 
+
